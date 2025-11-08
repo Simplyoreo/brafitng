@@ -90,7 +90,7 @@ flowchart LR
   C --> L
 ```
 
-## Sequence Diagram — Virtual Consultation Booking
+## 5. Sequence Diagram — Virtual Consultation Booking
 
 The following sequence diagram illustrates how Brafitng handles a virtual consultation booking, from the user’s action through to confirmation and notifications.
 

@@ -25,9 +25,9 @@ Brafitng is built as a **three-tier web application**:
 3. **Database** – PostgreSQL for secure data storage (user profiles, quiz data, bookings, consultation notes).
 
 Additional integrations:
-- **Video/Chat service (Jitsi / Twilio Video)** – for optional virtual consultations.  
-- **Payment gateway (Stripe / PayPal)** – for paid consultations or premium services.  
-- **Email/SMS service (SendGrid / Twilio)** – for notifications.  
+- **Video/Chat service (Twilio Video)** – for optional virtual consultations.  
+- **Payment gateway (Paystack / Flutterwave)** – for paid consultations or premium services.  
+- **Email/SMS service (SendGrid)** – for notifications.  
 - **Secure storage (AWS S3)** – for encrypted documents or advisor assets (no personal body images stored).
 
 ---

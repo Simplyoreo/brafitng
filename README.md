@@ -1,8 +1,8 @@
-# Brafitng
+# Brafitng - Confident Comfort, Virtually 💖
 Empower every woman to feel confident, comfortable and understood in their own fit
 through trusted, expert, personalized and privacy-first digital bra fitting advice.
 
-## What the product does
+## 🌷 What the product does
 Brafitng is a web-based platform that is designed to help women purchase bras that
 truly fit by offering personalised fitting advice, expert guidance as well as access to
 high-quality bras and lingerie.
@@ -11,33 +11,45 @@ empower women to feel comfortable and confident, ensuring each purchase fits per
 both in size and style.
 
 
-## Why it matters
-According to Dr Lauren Haworth, a senior research assistant from University of Central
-Lancashire, over 75% of women wear the wrong size of bras. The study also links poor bra
-fit and inadequate breast support to chronic back, neck and shoulder pain, especially among
-large-breasted women UCLAN research.
-There is insufficient education on how women can accurately measure themselves to get the
-right fit. Furthermore, most online shopping experiences do not offer personalized services
-leading to a lack of confidence in fit, size and style selection for each woman.
+## 💫 Why it matters
+Many women wear the wrong bra size — which can cause discomfort and long-term posture/back issues. Brafitng reduces purchase anxiety, wasted returns, and improves confidence by making sizing smart, simple and private.
 
 
-## Potential users of this product/service incudes;
+
+## 👩🏽‍🦱 Potential users of this product/service incudes;
 - Women from faith backgrounds that emphasize modesty
 - Pregnant amd Breastfeeding Women
 - Women healing from surgery or using prosthetics
 
-## Key features
-- Interactive fit quiz
-- Book appointments
-- Calendar integration
-- Video chat integration
-- Cancel/reschedule bookings
-- Certified Advisor Profiles
-- Payment platform integration
-- Manage bookings (admin)
+## 🌼Key features
+- 🌸 **Virtual Fit Quiz** – smart recommendations based on comfort and coverage needs.  
+- 💬 **Secure Video Consultations** – optional sessions with verified advisors (audio-only or text-only options available).  
+- 🪷 **Fit History** – track size and comfort changes across pregnancy, healing, or postpartum.  
+- 📅 **Appointment Scheduler** – book, reschedule, or cancel sessions anytime.  
+- 🛍️ **Private Shopping Links** – curated modest or post-surgery options from trusted brands.  
+- 🔐 **Privacy-first Design** – no photo uploads or body scans required.
 
-## Technologies (high level)
-- Frontend: React
-- Backend: Node.js
-- Database: PostgreSQL 
-- DevOps: Docker
+## 💻 How it works (in simple terms)
+
+1. Take a **5-minute online quiz** — no measurements needed, just comfort-based questions.  
+2. View your **recommended size and style options** instantly.  
+3. Book a **virtual consultation** if you want one-on-one advice (audio or chat).  
+4. Receive curated recommendations and track changes over time in your account.
+
+Everything happens in your secure virtual space — no physical stores, no cameras required.
+
+## 🧩 Technologies
+
+- Secure web app — runs on any device (phone, tablet, or laptop).  
+- Private user accounts with encrypted data.  
+- Video and chat consultations (powered by privacy-compliant video APIs).  
+- Payment for premium consultations via secure checkout (Paystack/Flutterwave).  
+
+## 💜 Our Commitment
+
+Brafitng is built with **respect, empathy, and inclusivity** at its core.  
+We believe every woman deserves comfort — whether guided by faith, motherhood, or recovery.
+
+---
+
+**Brafitng — Comfort. Confidence. Care. All from your space. 🌸**

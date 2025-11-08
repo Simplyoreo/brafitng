@@ -1,4 +1,4 @@
-# Brafitng - Confident Comfort, Virtually 💖
+# Brafitng - Confident Comfort, Virtually 
 Empower every woman to feel confident, comfortable and understood in their own fit
 through trusted, expert, personalized and privacy-first digital bra fitting advice.
 

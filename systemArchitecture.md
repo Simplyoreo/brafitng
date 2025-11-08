@@ -39,10 +39,9 @@ Additional integrations:
 | **Frontend** | Next.js (React), Tailwind CSS | User interface, accessibility, responsive design |
 | **Backend** | Node.js (NestJS / Express) | API logic, security, and integrations |
 | **Database** | PostgreSQL + Prisma ORM | Persistent data store |
-| **Cache / Queues** | Redis (optional) | Session caching, async notifications |
-| **Video & Chat** | Jitsi or Twilio | Virtual consultations (audio or video) |
+| **Video & Chat** | Twilio | Virtual consultations (audio or video) |
 | **Payments** | Paystack / Flutterwave | Paid consultation checkout |
-| **Notifications** | SendGrid / Twilio | Email and SMS notifications |
+| **Notifications** | SendGrid | Email and SMS notifications |
 | **Hosting** | Vercel (frontend), AWS / Render / Heroku (backend) | Fast, scalable deployment |
 | **CI/CD** | GitHub Actions | Automated testing and deployment |
 

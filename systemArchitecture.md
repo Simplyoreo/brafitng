@@ -1,6 +1,6 @@
-# System Architecture — Brafitng (Technical Blueprint)
+# System Architecture: Brafitng (Technical Blueprint)
 
-> **Purpose:** This document provides a clear technical overview of Brafitng — a fully virtual, privacy-first bra-fitting web platform. It explains the system stack, component communication, data model, and privacy considerations for the MVP phase.
+> **Purpose:** This document provides a clear technical overview of Brafitng: a fully virtual, privacy-first bra-fitting web platform. It explains the system stack, component communication, data model, and privacy considerations for the MVP phase.
 
 ---
 
